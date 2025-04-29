@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 I'm currently working on making my Git a Green Forest with valuable code.
+
 While polishing 💅 my coding skills, alongside I am also learning React Native, Next.js
+
 If you find good Profiles 👧 that suit my skills do refer me for the best fit.
+
 Reach me at 👉 santazsahithi@gmail.com
 <!--
 **santaz-sahithi/santaz-sahithi** is a ✨ _special_ ✨  repository because its `README.md` (this file) appears on your GitHub profile.
